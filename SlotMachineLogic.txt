@@ -1,0 +1,11 @@
+Collect deposit from user
+    take user input
+    check if user input is an integer
+    if false, ask user for a valid input
+    if true, add deposit to balance
+Add deposit to balance
+Allow user to bet on a line or multiple lines
+Check if the user got those lines
+Spin slot machine
+Generate the different items for the slot machine wheels
+Add users winning back to their balance
